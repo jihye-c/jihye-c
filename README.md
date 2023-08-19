@@ -1,0 +1,10 @@
+- - 👋 Hello. I'm Choi Jihye, the front developer and designer. I am in Korea.
+
+I am interested in interactive web and web animation. I want to create a lively web.
+
+Currently, I am focusing on JavaScript, CSS animation, and react. And I'm learning node.js to understand about web servers.
+
+Reach me by e-mail with Behens.
+
+https://www.behance.net/jihyec2283ae
+jihyec22@gmail.com
