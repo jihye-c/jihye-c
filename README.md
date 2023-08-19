@@ -6,5 +6,5 @@ Currently, I am focusing on JavaScript, CSS animation, and react. And I'm learni
 
 Reach me by e-mail with Behens.
 
-https://www.behance.net/jihyec2283ae
-jihyec22@gmail.com
+- https://www.behance.net/jihyec2283ae
+- jihyec22@gmail.com
