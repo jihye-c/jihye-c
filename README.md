@@ -1,4 +1,5 @@
-##👋 Hello. I'm Choi Jihye, the front developer and designer.
+👋
+## Hello. I'm Choi Jihye, the front developer and designer.
 
 I'm interested in interactive web and web animation. I want to create a lively web.
 
